@@ -8,7 +8,7 @@ This page is written in MarkDown by Tatsuki Nakamori.
 
 *👤Profile*
 
-とにかく<u>音楽とガジェット、コンピューター関連が大好き</u>な学生です
+とにかく<u>音楽(吹奏楽)とガジェット、コンピューター関連が大好き</u>な学生です
 
 ネットの世界に産み落とされて今年(2021年)で8年ほど経ちます
 
@@ -56,7 +56,7 @@ HTML, PHP, JavaScript, Python などを学ぼうとしたこともあります(�
 
 ☆[Github](https://github.com/Tatsuki0810) (Tatsuki0810)
 
-☆Discord (Tatsuki Nakamori#2806) ←見ないです
+☆Discord (Kumamon#0829) ←見ないです
 
 同じ学校の方、知っている方などは基本フォロリク等通させて頂きます
 
