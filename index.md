@@ -19,11 +19,17 @@ Windows, Linux(Ubuntu, CentOS)を触ったことがあります
 HTML, PHP, JavaScript, Python などを学ぼうとしたこともあります(少しだけ)
 
 
-*🎸My instruments*
+*🎸My instruments*  
+
 ・中国製アコギ
+
 ・Ibanez SR300E
+
 ・COLOMBIA 電子ピアノ
+
 ・Kramer ジャンクエレキギター
+
+・YAMAHA YTR-2320E
 
 *🎵My Favorite Things(敬称略)*
 
